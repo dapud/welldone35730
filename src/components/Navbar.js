@@ -7,11 +7,12 @@ const Navbar = () => {
   return (
     <div className='Navbarcss'>
 
-   <lo>Hierros    </lo>
-   <lo>Driver     </lo>
-   <lo>wedges     </lo>
-   <lo>Pelotas    </lo>
-   <lo>Accesorio  </lo>
+   <lo>   Hierros    -</lo>
+   <lo>   Driver     -</lo>
+   <lo>   wedges     -</lo>
+   <lo>   Pelotas    -</lo>
+   <lo>   Accesorio  -</lo>
+  
     <Cartwidget/>
    
 

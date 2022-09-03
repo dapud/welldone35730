@@ -1,6 +1,9 @@
 function Saludo () {
 
-return <h1>saludos a todos !!!!</h1>
+return <h1 style ={{textAlign: "center", 
+                    backgroundColor:"blue",
+                    
+                    }} >Todo lo que necesitas</h1>
 
 
 }

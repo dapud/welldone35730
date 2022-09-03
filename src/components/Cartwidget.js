@@ -2,7 +2,11 @@ import React from 'react'
 
 const Cartwidget = () => {
   return (
-    <div>cartwidget</div>
+    <div >  
+      <img src='../carritoEcomer.png' alt='Cartwidget'/> 
+    </div>
+    
+    
   )
 }
 

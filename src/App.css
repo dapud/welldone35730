@@ -2,6 +2,32 @@
   text-align: center;
 }
 
+.Navbarcss {
+
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  background-color: aqua;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  border: solid rgb(102, 9, 52);
+
+  
+}
+
+.TituloPrincipal {
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  background-color: rgb(226, 246, 246);
+}
+
+
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
