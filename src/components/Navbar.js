@@ -7,13 +7,13 @@ const Navbar = () => {
   return (
     <div className='Navbarcss'>
 
-   <lo>   Hierros    -</lo>
-   <lo>   Driver     -</lo>
-   <lo>   wedges     -</lo>
-   <lo>   Pelotas    -</lo>
-   <lo>   Accesorio  -</lo>
+   <lo> <a href='www.google.com' > Hierros   </a> </lo>
+   <lo> <a href='www.google.com' > Driver  </a> </lo>
+   <lo> <a href='www.google.com' > Wedges   </a>  </lo>
+   <lo>  <a href='www.google.com' > Pelotas   </a> </lo>
+   <lo>  <a href='www.google.com' > Accesorios   </a>  </lo>
   
-    <Cartwidget/>
+    <  Cartwidget/>
    
 
     </div>

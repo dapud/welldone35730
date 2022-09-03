@@ -13,7 +13,7 @@ function App() {
     <>
 
     <h1 className="TituloPrincipal"> Welldone Golf !!!</h1>
-    <h5 style={{ backgroundColor: "green"}}> Todo para el golfista</h5>
+   {/*  <h5 style={{ backgroundColor: "green"}}> Todo para el golfista</h5> */}
     <Navbar/>
    
    <Saludo></Saludo>
